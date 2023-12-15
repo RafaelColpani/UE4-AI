@@ -12,8 +12,3 @@
   </a>
 </p>
 
-<br/>
-<h2 align="left"> How will it work  </h2>
-<p align="left">
-The items will be created in the form of a blueprint, and then they will be transformed into C++
-</p>
