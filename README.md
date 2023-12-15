@@ -9,6 +9,7 @@
  <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=unreal"/>
    <img src="https://skillicons.dev/icons?i=cpp"/>
+   <img src="https://skillicons.dev/icons?i=c"/>
   </a>
 </p>
 
@@ -33,7 +34,7 @@
 <h2 align="left"> Important notes:  </h2>
 
 > [!IMPORTANT]
-> This repostior use Unreal version 4.27
+> This repository uses Unreal Engine version 4.27.
 
 > [!CAUTION]
-> You must have installed Visual Studio, Unreal development mode and the SDK
+> You must have Visual Studio installed with C++ game development mode and the .NET 4.8 SDK
