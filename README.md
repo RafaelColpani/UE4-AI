@@ -17,8 +17,12 @@
 <h2 align="left"> Goals:  </h2>
 <p align="left">
 
+**BASIC AI:**
+- [x] Follow Target + Debug View
+- [x] Add STAT Log
+
 **NPC:**
-- [x] Path Finding (Simple logic)
+- [ ] Path Finding (Simple logic)
 - [ ] Path Finding (Debug View)
 - [ ] Path Finding Crowd Implementation
 
